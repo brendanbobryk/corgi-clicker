@@ -18,11 +18,11 @@ events, and conditional rendering.
 
 ## How to Run
 
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/brendanbobryk/corgi-clicker.git
 
-2. Navigate into the project folder:
+2. Navigate to the project folder:
     ```bash
     cd corgi-clicker
 
@@ -32,9 +32,9 @@ events, and conditional rendering.
 
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
 
-5. Open your browser at http://localhost:3000 to play!
+5. Open your browser at the local address shown in the terminal (usually http://localhost:5173) to play!
 
 ## License
 
